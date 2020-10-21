@@ -1,0 +1,184 @@
+Tracker:udp://tracker.leechers-paradise.org:6969
+announce-list:
+['udp://tracker.leechers-paradise.org:6969']
+['udp://tracker.coppersurfer.tk:6969']
+['udp://tracker.opentrackr.org:1337']
+['udp://explodie.org:6969']
+['udp://tracker.empire-js.us:1337']
+['wss://tracker.btorrent.xyz']
+['wss://tracker.openwebtorrent.com']
+['wss://tracker.fastcast.nz']
+piece_length:131072
+Sintel987.0
+info-hash:<sha1 HASH object @ 0x7f74d61a6f58>
+length:129302391
+block_length:16384
+No.of blocks per piece:8.0
+last_block_size:0
+---------------------------------------------------------
+ connect to udp tracker 
+message sent and received successfully
+response : b'\x00\x00\x00\x00\x00\x01\xe2@\x16\xd6\xf7\xcf\xfc\x11\x83\x83'
+
+connection_id:1645775186509792131
+TRANSACTION_ID:1234567Peer_idb'o;Y\xe5\x06\xf2\x95\r\x81"\xf4\xf9\xa9\xba\\\x04o\xa5A\x9a'
+info_hash:<sha1 HASH object @ 0x7f74d61a6f58>
+message sent and received successfully
+response : b'\x00\x00\x00\x01\x00\x01\xe2@\x00\x00\x07n\x00\x00\x00\t\x00\x00\x00&%\xcc\xfc~\x1a\xe13\x9ea^\xa4U3\x9ep\xb7\xa4U3\x9es\x8f\xa4UD!N\xbd\x1a\xe1D!N\xbd\x1a\xe2\\i4\x10\x1a\xe1p\x95\x8eV\xbba\x9d!\xe4\xdf\x1a\xe1\xdf`\xce>\xc8\xd5\xdfV\xb7E\xc8\xd5\xd8\x97\xb40\xc8\xd5\xd1\x8d/o\xc8\xd5\xcf\xb4\xcd\x96#\'\xc5\xf8\xa1\x82\x960\xb9a\xc9~\xc2B\xb9\x19\xcfn\xddc\xb9\x15\xd9J\xe4\x12\xb7\xdd\x06\xba\xc8\xd5\xb7\xc8w\xde\xc8\xd5w\xb1\xff\x10\xc8\xd5u\xaf\x82\xd8\xc8\xd5u\xafr\xaf\xc8\xd5u\xae\xa8\xad\xc8\xd5u\xac\x03\xcd\xc8\xd5u\x14u\xae\xc0\x08u\x14u\xae\x1a\xe1q\x0f\xe2\x88\xc8\xd5p\xf9\x1b\xf9\xc8\xd5p&f\xf9\xc8\xd5p&d4\xc8\xd5o\xcc\x10\x04\xc8\xd5o\t\xf2\xa8\xc8\xd5o\tnA\xc8\xd5o\tD\xf4\xc8\xd5\\Z|\xf7\xaa[Y\xdf/\xc8\xd4`Y\xa4\x1f6-\x91P\x1b\xf0\x13\x8b\xa8O\x88"\xd3#\'N\xdf|\x7f\xc8\xd5Ij\tb\x1a\xe1G:\xfcz\x1e\xc9C\xcd\x9c!\xb6\xef3\xfe\x88\x06zi\x1b\xc5X\x9f\xc8\xd5\x02\xee\xb9}\x1a\xea'
+UDP CONNECTION SUCCESSFULL 
+--------------------------------- 
+
+ Peer List: 
+('37.204.252.126', 6881)
+('51.158.97.94', 42069)
+('51.158.112.183', 42069)
+('51.158.115.143', 42069)
+('68.33.78.189', 6881)
+('68.33.78.189', 6882)
+('92.105.52.16', 6881)
+('112.149.142.86', 47969)
+('157.33.228.223', 6881)
+('223.96.206.62', 51413)
+('223.86.183.69', 51413)
+('216.151.180.48', 51413)
+('209.141.47.111', 51413)
+('207.180.205.150', 8999)
+('197.248.161.130', 38448)
+('185.97.201.126', 49730)
+('185.25.207.110', 56675)
+('185.21.217.74', 58386)
+('183.221.6.186', 51413)
+('183.200.119.222', 51413)
+('119.177.255.16', 51413)
+('117.175.130.216', 51413)
+('117.175.114.175', 51413)
+('117.174.168.173', 51413)
+('117.172.3.205', 51413)
+('117.20.117.174', 49160)
+('117.20.117.174', 6881)
+('113.15.226.136', 51413)
+('112.249.27.249', 51413)
+('112.38.102.249', 51413)
+('112.38.100.52', 51413)
+('111.204.16.4', 51413)
+('111.9.242.168', 51413)
+('111.9.110.65', 51413)
+('111.9.68.244', 51413)
+('92.90.124.247', 43611)
+('89.223.47.200', 54368)
+('89.164.31.54', 11665)
+('80.27.240.19', 35752)
+('79.136.34.211', 8999)
+('78.223.124.127', 51413)
+('73.106.9.98', 6881)
+('71.58.252.122', 7881)
+('67.205.156.33', 46831)
+('51.254.136.6', 31337)
+('27.197.88.159', 51413)
+('2.238.185.125', 6890)
+37.204.252.12651.158.97.9451.158.112.18351.158.115.14368.33.78.18968.33.78.18992.105.52.16Recived bitfield:b'\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xe0\x00'
+Client is Choked 
+112.149.142.86157.33.228.223223.96.206.62223.86.183.69216.151.180.48209.141.47.111Recived bitfield:b'\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xe0\x00'
+Client is Choked 
+207.180.205.150Recived bitfield:b'\xff\xff\xff\xff\xff\xff\xff\xfd\xf7\xfe\xff\xff\xff\xff\xfe\xff\xf2\xff\xff\xfb\xff\xff\xff\xee\xff\xff\xfd\xff\xff\xff\xff\xff\xff\xfb\xff\xff\xff\xbf\xff\x7f\xff\xff\xff\xff\xaf\xdf\xdf\xff\xff\xff\xff\x7f\xdb\xff\xff\xfd\xff\x7f\xef\xff\xbb\xf7\xff\xfb\xe7\xff\xff\xff\xff\xff\xf7\xbf\xff\xbf\xff\xff\xff\xff\xff\xff\xff\xff\xbf\xff\xff\xff\xff\xff\xff\xff\xff\xfd\xff\xff\xff\xef\xff?\xff\xff\xff\xff\xff\xff\xff\xff~\xfb\xfd\xdb\xff\xff\xff\xff\xdf\xef\xff\xef\xff\xbf\xbf\xff\xfe\xe0\x00'
+Client is Choked 
+197.248.161.130185.97.201.126185.25.207.110Recived bitfield:b'\xff\xff\xff\xfb\xff\xf9\xff\xff\xff\xff\xf7\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xfe\xff\xff\xff\xff\xff\xff\xfb\xff'
+Client is Choked 
+185.21.217.74Recived bitfield:b'\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xe0'
+Client Unchoked 
+download started 
+REQUEST SEND 
+Requesting block num:0
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:1
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:2
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:3
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:4
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:5
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:6
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:7
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Piece received successfully :0
+Data written successfully 
+REQUEST SEND 
+Requesting block num:0
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:1
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:2
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:3
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:4
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:5
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:6
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:7
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Piece received successfully :1
+Data written successfully 
+REQUEST SEND 
+Requesting block num:0
+REQUEST msg created successfully and sending 
+REQUEST sent and piece id received 
+Block received successfully 
+------------------------------------------------------------- 
+Requesting block num:1
+REQUEST msg created successfully and sending 
+REQUEST failed and sending again 

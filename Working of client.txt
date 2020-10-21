@@ -1,0 +1,26 @@
+Working of client
+-----------------------
+Decode torrent.py:
+	Used to decode the torrent file and extract all the necessary information.
+
+http_conn.py:
+	Used to establish connection with HTTP tracker.
+
+udp_conn.py:
+	Used to establish connection with UDP tracker.
+
+Peer_ip_extraction.py:
+	Used to extract the IP and ports of peers from the network in the form of tuples.
+
+peer_connection.py:
+	To establish the connection with peer.
+
+client.py:
+	To create and send handshake as well interested msg to peer from the client.
+
+rare_piece_extraction:
+	It starts downloading rare piece once common bitfiled is found from the first peer.
+
+download_start.py:
+	It downloads the piece by dividing it into small blocks and downloading that blocks accordingly
+	depending on the connection with peer.							
